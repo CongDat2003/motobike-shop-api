@@ -1,0 +1,11 @@
+Test image file for MotoShop API
+This file is used to test if the static resources are accessible.
+If you can see this content, the static resources are working correctly.
+
+
+
+
+
+
+
+
